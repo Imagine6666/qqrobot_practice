@@ -1,4 +1,4 @@
-package qqrobot_practice
+package qqbot
 
 import (
 	"bytes"
